@@ -13,6 +13,6 @@ Command to make a virtual environment: `python -m venv env`
 4. Install all packages of `requirements.txt` into virtual environment
     - You can use `pip install -r requirements.txt` from the project directory to do this
 
-(Using VScode to run jupyter notebooks)
-5. Configure notebook interpreter to virtual environment
+
+5. Configure notebook interpreter to virtual environment (Using VScode to run jupyter notebooks, look to the top right of your screen to configure interpreter)
 6. Run and reproduce results
