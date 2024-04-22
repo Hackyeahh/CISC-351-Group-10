@@ -3,6 +3,8 @@ A group project for CISC 351 @ Queen's University.
 
 Command to make a virtual environment: `python -m venv env` 
 
+#Note data-processing is the main jupyter file containing all the reproducable code and results.
+
 ## Steps to reproduce
 
 1. Clone this github repository on your local machine
